@@ -2,7 +2,7 @@
 
 ## Minimal System Status Script for DWM
 
-This is a minimal shell based real-time [dwm](https://dwm.suckless.org/) bar. It's especially useful for ThinkPad laptops with PowerBridge (dual battery) configurations and for users of [Mullvad VPN](https://mullvad.net/).`dwm` status bar.
+This is a minimal shell based real-time [dwm](https://dwm.suckless.org/) bar. It's especially useful for ThinkPad laptops with PowerBridge (dual battery) configurations and for users of [Mullvad VPN](https://mullvad.net/).
 
 ## Features
 
